@@ -1,4 +1,4 @@
-# Hi there👋, I'm Kostya Krasnov aka moondAwg
+# Hi there👋, I'm Kostya aka moondAwg
 
 ## I'm Fontend developer 
 
