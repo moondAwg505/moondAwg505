@@ -7,7 +7,7 @@ I’ve been interested in web development since 2017 and now I’m focused on bu
 
 🌭 I’m currently looking for my first job in Frontend development.
 
-Languahe & Tools
+Language & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
